@@ -1,0 +1,22 @@
+{
+  "name": "optional-color-logger",
+  "version": "0.0.1",
+  "description": "Optional color or plain logger initialization",
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahmutov/optional-color-logger.git"
+  },
+  "keywords": [
+    "logger", "log", "terminal",
+    "js", "javascript"
+  ],
+  "dependencies": {
+    "custom-logger": "*"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "./logger.js",
+  "license": "MIT"
+}

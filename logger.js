@@ -38,7 +38,7 @@ function init(options) {
 		log.debug('Logging without colors, log level', logMode);
 	}
 
-	globa.log.level = logMode;
+	global.log.level = logMode;
 }
 
 module.exports = {

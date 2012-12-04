@@ -35,7 +35,7 @@ function init(options) {
 			global.log.info = nothing;
 		}
 
-		log.debug('Logging without colors, log level', logMode);
+		global.log.debug('Logging without colors, log level', logMode);
 	}
 
 	global.log.level = logMode;

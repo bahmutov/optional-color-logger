@@ -1,8 +1,7 @@
 // initialize logger
 function init(options) {
 	options = options || {};
-
-	var logMode = (typeof options.l === "number" ? options.l : 1);
+	var logMode = options.log || options.l || 1;
 	if (options.colors || options.colorful || options.color) {
 		var log = require("custom-logger");
 		

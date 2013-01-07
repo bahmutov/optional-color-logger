@@ -1,6 +1,6 @@
 {
   "name": "optional-color-logger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Optional color or plain logger initialization",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "repository": {

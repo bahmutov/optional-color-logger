@@ -18,5 +18,8 @@
     "node": ">= 0.8.0"
   },
   "main": "./logger.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/log-test.js"
+  }
 }

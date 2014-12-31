@@ -8,11 +8,14 @@
     "url": "https://github.com/bahmutov/optional-color-logger.git"
   },
   "keywords": [
-    "logger", "log", "terminal",
-    "js", "javascript"
+    "logger",
+    "log",
+    "terminal",
+    "js",
+    "javascript"
   ],
   "dependencies": {
-    "custom-logger": "*"
+    "custom-logger": "0.3.0"
   },
   "engines": {
     "node": ">= 0.8.0"

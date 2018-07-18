@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "travis-deploy-once": "4.4.1",
-    "semantic-release": "15.8.0"
+    "semantic-release": "15.8.1"
   }
 }
